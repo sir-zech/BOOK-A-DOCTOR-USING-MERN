@@ -26,8 +26,8 @@ Our team ID for this project is **NM2024TMID06548**.
 
 To better understand our code structure and how the application functions, you can watch the following videos:
 
-- **Code Structure Explanation:** [Video Link Placeholder](https://example.com)
-- **Application Demo:** [Demo Video Placeholder](https://example.com)
+- **Code Structure Explanation:** [Video Link ](https://drive.google.com/drive/folders/1pteT8STdObONWwELNDHRK9biItLuiJ-1?usp=drive_link)
+- **Application Demo:** [Demo Video ](https://drive.google.com/drive/folders/1Y0lmk4XpYophzh0W0Dguum9Bv2S4psfw?usp=drive_link)
 
 ## Features
 
@@ -53,9 +53,9 @@ To better understand our code structure and how the application functions, you c
 ### Steps
 
 1. Clone the repository:
-   ```bash
+   
   (https://github.com/sir-zech/BOOK-A-DOCTOR-USING-MERN.git)
-   ```
+   
 
 2. Install dependencies for both backend and frontend:
    ```bash
@@ -70,6 +70,7 @@ To better understand our code structure and how the application functions, you c
    - Inside the .env file update your connection string to coonect with your MongoDB Database. 
    also update it in the config>> ConnectToMongoDB.js files.
 
+     ```
      MONGO_URI=your_mongodb_connection_string
     
      ```
