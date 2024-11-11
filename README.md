@@ -72,7 +72,6 @@ To better understand our code structure and how the application functions, you c
 
      ```
      MONGO_URI=your_mongodb_connection_string
-    
      ```
 
 4. Start the application:
@@ -103,6 +102,7 @@ This project was developed as part of our academic program. Here are our team me
 - **Mouli Monish S**
 - **Nimalan R**
 - **Srivatsan C.B**
+- **Selvam R**
 
 Each team member contributed to various parts of the project, from backend development to UI design, making this project a team effort.
 
